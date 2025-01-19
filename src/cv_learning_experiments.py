@@ -2,5 +2,7 @@ import cv2
 import os
 
 img = cv2.imread("img\cat.jpg", cv2.IMREAD_GRAYSCALE)
-print(img.shape)
-cv2.waitKey(0)
+cv2.imshow("Cat", img)
+key = cv2.waitKey(0)
+print(key)
+print(ord("l"))
