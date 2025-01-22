@@ -6,7 +6,7 @@ import os
 
 FPS = 0.3
 APP_NAME = "Minecraft 1.7.10"
-SAVE_FOLDER = "raw_dataset/"
+SAVE_FOLDER = "datasets/raw_dataset/"
 FILE_INDEX = 0
 t = 1 / FPS
 running = True
