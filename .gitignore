@@ -193,3 +193,4 @@ pyrightconfig.json
 /datasets
 helpful_links.txt
 /runs
+*.mp4
